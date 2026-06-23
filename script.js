@@ -1,0 +1,1 @@
+console.log('Link da Bio carregado');
